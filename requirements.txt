@@ -1,0 +1,4 @@
+Flask
+gunicorn
+openai
+python-telegram-bot==20.6
